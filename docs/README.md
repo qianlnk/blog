@@ -13,4 +13,5 @@
 ![](/uploads/upload_ea1a8d83439265f8d62cf43b31b3da7e.png)
 3. 添加文档后需要在目录里添加对应的链接。
 ![](/uploads/upload_88f4073f3f2ab3173dd5313f49de286d.png)
-4. 文档更新频率为5s检查yi c
+4. 文档更新频率为5s检查一次
+5. 文档推到github为30s检查一次

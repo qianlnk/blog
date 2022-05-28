@@ -1,5 +1,5 @@
 
-<img width="180px" style="border-radius: 50%" bor src="/uploads/upload_6a761c9752258f38ec17f510356326de.png">
+<img width="180px" style="border-radius: 50%" bor src="/blog/uploads/upload_6a761c9752258f38ec17f510356326de.png">
 
 # LNK blog
 

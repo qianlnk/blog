@@ -43,7 +43,7 @@
         - [快速排序](快速排序.md)
         - [插入排序](插入排序.md)
         - [希尔排序](希尔排序.md)
-        - 
+        - [选择排序](选择排序.md)
 - <font style="color:orange;font-size:14px;font-weight:500">数据库：</font>
     - <font style="color:orange;font-size:14px;font-weight:500">mysql：</font>
     - <font style="color:orange;font-size:14px;font-weight:500">mongodb：</font>

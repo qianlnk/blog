@@ -40,6 +40,7 @@
     - <font style="color:orange;font-size:14px;font-weight:500">排序：</font>
         - [排序算法概述](排序算法概述.md)
         - [冒泡排序](冒泡排序.md)
+        - [快速排序](快速排序.md)
 - <font style="color:orange;font-size:14px;font-weight:500">数据库：</font>
     - <font style="color:orange;font-size:14px;font-weight:500">mysql：</font>
     - <font style="color:orange;font-size:14px;font-weight:500">mongodb：</font>

@@ -18,3 +18,11 @@
 ![](/uploads/upload_88f4073f3f2ab3173dd5313f49de286d.png)
 4. 文档更新频率为5s检查一次
 5. 文档推到github为30s检查一次
+
+<script src="https://utteranc.es/client.js"
+        repo="qianlnk/blog"
+        issue-term="pathname"
+        theme="github-light"  
+        crossorigin="anonymous"
+        async>
+</script>

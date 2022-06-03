@@ -18,7 +18,3 @@
 ![](/uploads/upload_88f4073f3f2ab3173dd5313f49de286d.png)
 4. 文档更新频率为5s检查一次
 5. 文档推到github为30s检查一次
-
-<div class="utterances" style="height: 269px;">
-    <iframe class="utterances-frame" title="Comments" scrolling="no" src="https://utteranc.es/utterances.html?src=https%3A%2F%2Futteranc.es%2Fclient.js&amp;repo=qianlnk%2Fblog&amp;issue-term=pathname&amp;theme=github-light&amp;crossorigin=anonymous&amp;async=&amp;url=https%3A%2F%2Fqianlnk.github.io%2Fblog%2F&amp;origin=https%3A%2F%2Fqianlnk.github.io&amp;pathname=blog%2F&amp;title=Document&amp;description=Description&amp;og%3Atitle=&amp;session=" loading="lazy"></iframe>
-  </div>

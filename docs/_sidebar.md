@@ -58,4 +58,4 @@
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch：</font>
 -  <font style="color:red;font-size:14px;font-weight:500">golang：</font>
     -  <font style="color:orange;font-size:14px;font-weight:500">数据结构：</font>
-        - [channel底层实现](channel底层实现)
+        - [channel底层实现](channel底层实现.md)

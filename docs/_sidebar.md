@@ -54,7 +54,7 @@
         - [基数排序](基数排序.md)
 - <font style="color:red;font-size:14px;font-weight:500">数据库：</font>
     - <font style="color:orange;font-size:14px;font-weight:500">mysql：</font>
-        - InnoDBh
+        - [InnoDB和Myisam区别]()
     - <font style="color:orange;font-size:14px;font-weight:500">mongodb：</font>
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch：</font>
 -  <font style="color:red;font-size:14px;font-weight:500">golang：</font>

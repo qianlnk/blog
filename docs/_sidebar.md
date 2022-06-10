@@ -62,6 +62,7 @@
         - [乐观锁和悲观锁](乐观锁和悲观锁.md)
         - [间隙锁](间隙锁.md)
         - [主从复制](mysql主从复制.md)
+        - [查询缓存](mysql查询缓存.md)
     - <font style="color:orange;font-size:14px;font-weight:500">mongodb：</font>
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch：</font>
 -  <font style="color:red;font-size:14px;font-weight:500">golang：</font>

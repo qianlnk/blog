@@ -75,7 +75,7 @@
         - [设计思路](mongodb设计思路.md)
         - [批量杀死慢查询](mongodb批量杀死慢查询.md)
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch：</font>
-        - 
+        - [性能优化](elasticsearch性能优化.md)
 -  <font style="color:red;font-size:14px;font-weight:500">golang：</font>
     -  <font style="color:orange;font-size:14px;font-weight:500">数据结构：</font>
         - [channel底层实现](channel底层实现.md)

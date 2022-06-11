@@ -69,6 +69,7 @@
         - [SQL注入](SQL注入.md)
         - [innodb事务的底层实现技术](innodb事务的底层实现技术.md)
         - [mysql的一条数据是如何最后写入的](mysql的一条数据是如何最后写入的.md)
+        - [为什么主键建议使用自增ID](为什么主键建议使用自增ID.md)
     - <font style="color:orange;font-size:14px;font-weight:500">mongodb：</font>
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch：</font>
 -  <font style="color:red;font-size:14px;font-weight:500">golang：</font>

@@ -72,6 +72,7 @@
         - [为什么主键建议使用自增ID](为什么主键建议使用自增ID.md)
         - [mysql连接池满排查处理](mysql连接池满排查处理.md)
     - <font style="color:orange;font-size:14px;font-weight:500">mongodb：</font>
+        - 
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch：</font>
 -  <font style="color:red;font-size:14px;font-weight:500">golang：</font>
     -  <font style="color:orange;font-size:14px;font-weight:500">数据结构：</font>

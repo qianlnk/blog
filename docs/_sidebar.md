@@ -73,6 +73,7 @@
         - [mysql连接池满排查处理](mysql连接池满排查处理.md)
     - <font style="color:orange;font-size:14px;font-weight:500">mongodb：</font>
         - [设计思路](mongodb设计思路.md)
+        - [mongodb批量杀死慢查询.md](mongodb批量杀死慢查询.md)
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch：</font>
 -  <font style="color:red;font-size:14px;font-weight:500">golang：</font>
     -  <font style="color:orange;font-size:14px;font-weight:500">数据结构：</font>

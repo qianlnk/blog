@@ -77,6 +77,7 @@
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch</font>
         - [性能优化](elasticsearch性能优化.md)
     - <font style="color:orange;font-size:14px;font-weight:500">redis</font>
+        - [常用数据类型及底层实现]
         - [SDS简单动态字符串](redis_SDS简单动态字符串.md)
         - [哈希 hash，rehash过程](redis_hash.md)
         - [有序集合zset 及 跳跃表](redis_zset.md)

@@ -90,6 +90,7 @@
         - [redis数据同步(复制)的理解](redis数据同步.md)
         - [mget和pipeline](mget和pipeline.md)
         - [内存回收](redis内存回收.md)
+        - [AOF重写](redis_AOF重写.md)
 -  <font style="color:red;font-size:14px;font-weight:500">golang</font>
     -  <font style="color:orange;font-size:14px;font-weight:500">数据结构</font>
         - [channel底层实现](channel底层实现.md)

@@ -113,7 +113,7 @@
         -  [闭包](闭包.md)
         -  [深拷贝](深拷贝.md)
 -  <font style="color:red;font-size:14px;font-weight:500">组件原理</font>
-    -  <font style="color:orange;font-size:14px;font-weight:500">zo o n</font>
+    -  <font style="color:orange;font-size:14px;font-weight:500">zoonkeeper</font>
     -  <font style="color:orange;font-size:14px;font-weight:500">kafka</font>
     -  <font style="color:orange;font-size:14px;font-weight:500">nsq</font>
 -  <font style="color:red;font-size:14px;font-weight:500">网络编程</font>

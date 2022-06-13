@@ -1,8 +1,8 @@
 
 # 目录
 - [欢迎](README.md)
-- <font style="color:red;font-size:14px;font-weight:500">计算机网络：</font>
-    - <font style="color:orange;font-size:14px;font-weight:500">TCP：</font>
+- <font style="color:red;font-size:14px;font-weight:500">计算机网络</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">TCP</font>
         - [TCP三次握手](TCP三次握手.md)
         - [TCP四次挥手](TCP四次挥手.md)
         - [TCP可靠传输](TCP可靠传输.md)
@@ -19,7 +19,7 @@
         - [nagle算法](nagle算法.md)
         - [TCP与UDP的区别](TCP与UDP的区别.md)
         - [端口号](端口号.md)
-    - <font style="color:orange;font-size:14px;font-weight:500">HTTP：</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">HTTP</font>
         - [HTTP是什么](HTTP是什么.md)
         - [GET和POST区别](GET和POST区别.md)
         - [HTTP常见字段](HTTP常见字段.md)

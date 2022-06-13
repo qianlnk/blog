@@ -31,16 +31,16 @@
         - [SSL/TLS四次握手](SSL_TLS四次握手.md)
         - [证书认证](证书认证.md)
         - [URI 和 URL](URI和URL.md)
-    - <font style="color:orange;font-size:14px;font-weight:500">协议：</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">协议</font>
         - [OSI七层模型以及底层协议](OSI七层模型以及底层协议.md)
         - [路由选择协议](路由选择协议.md)
         - [DHCP](DHCP.md)
-- <font style="color:red;font-size:14px;font-weight:500">算法与数据结构：</font>
-    - <font style="color:orange;font-size:14px;font-weight:500">数据结构：</font>
+- <font style="color:red;font-size:14px;font-weight:500">算法与数据结构</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">数据结构</font>
         - [哈希表](哈希表.md)
         - [堆(优先队列)](堆(优先队列).md)
         - [B树和B+树](B树和B+树.md)
-    - <font style="color:orange;font-size:14px;font-weight:500">排序：</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">排序</font>
         - [排序算法概述](排序算法概述.md)
         - [冒泡排序](冒泡排序.md)
         - [快速排序](快速排序.md)
@@ -52,8 +52,8 @@
         - [桶排序](桶排序.md)
         - [计数排序](计数排序.md)
         - [基数排序](基数排序.md)
-- <font style="color:red;font-size:14px;font-weight:500">数据库：</font>
-    - <font style="color:orange;font-size:14px;font-weight:500">mysql：</font>
+- <font style="color:red;font-size:14px;font-weight:500">数据库</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">mysql</font>
         - [InnoDB和Myisam区别](InnoDB和Myisam区别.md)
         - [聚簇索引和非聚簇索引](聚簇索引和非聚簇索引.md)
         - [覆盖索引](覆盖索引.md)
@@ -71,19 +71,19 @@
         - [mysql的一条数据是如何最后写入的](mysql的一条数据是如何最后写入的.md)
         - [为什么主键建议使用自增ID](为什么主键建议使用自增ID.md)
         - [mysql连接池满排查处理](mysql连接池满排查处理.md)
-    - <font style="color:orange;font-size:14px;font-weight:500">mongodb：</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">mongodb</font>
         - [设计思路](mongodb设计思路.md)
         - [批量杀死慢查询](mongodb批量杀死慢查询.md)
-    - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch：</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch</font>
         - [性能优化](elasticsearch性能优化.md)
--  <font style="color:red;font-size:14px;font-weight:500">golang：</font>
-    -  <font style="color:orange;font-size:14px;font-weight:500">数据结构：</font>
+-  <font style="color:red;font-size:14px;font-weight:500">golang</font>
+    -  <font style="color:orange;font-size:14px;font-weight:500">数据结构</font>
         - [channel底层实现](channel底层实现.md)
         - [map底层实现](map底层实现.md)
         - [slice底层实现](slice底层实现.md)
         - [interface底层实现](interface底层实现.md)
         - [sync.Map底层实现](syncmap底层实现.md)
-    -  <font style="color:orange;font-size:14px;font-weight:500">源码解析：</font>
+    -  <font style="color:orange;font-size:14px;font-weight:500">源码解析</font>
         -  [目录说明](目录说明.md)
         -  [内存逃逸](内存逃逸.md)
         -  [逃逸分析](逃逸分析.md)

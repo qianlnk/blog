@@ -46,7 +46,7 @@ int zslRandomLevel(void) {
 
 **节点删除**
 
-![Uploading file..._jxwxbu9jj]()
+![](/uploads/upload_4401a179dbe5b9c57d9dd6692a4a3fd5.png)
 
 
 跳表元素的删除与普通链表相比增加了索引层的判断，如果结点是非索引结点则正常处理，如果结点是索引结点那边需要进行索引层结点的处理。

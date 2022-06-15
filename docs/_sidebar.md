@@ -121,6 +121,7 @@
 -  <font style="color:red;font-size:14px;font-weight:500">网络编程</font>
     -  [IO多路复用](IO多路复用.md)
     -  [从select到epool](从select到epool.md)
+    -  [epoll原理](epoll原理.md)
     -  [惊群效应](惊群效应.md)
 -  <font style="color:red;font-size:14px;font-weight:500">操作系统</font>
 -  <font style="color:red;font-size:14px;font-weight:500">组成原理</font>

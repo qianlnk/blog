@@ -96,14 +96,14 @@
         - [redis单线程如何协调各个事件运行](redis单线程如何协调各个事件运行.md)
         - [redis如何加载大量数据](redis如何加载大量数据.md)
         - [分布式锁](redis分布式锁.md)
--  <font style="color:red;font-size:14px;font-weight:500">golang</font>
-    -  <font style="color:orange;font-size:14px;font-weight:500">数据结构</font>
+- <font style="color:red;font-size:14px;font-weight:500">golang</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">数据结构</font>
         - [channel底层实现](channel底层实现.md)
         - [map底层实现](map底层实现.md)
         - [slice底层实现](slice底层实现.md)
         - [interface底层实现](interface底层实现.md)
         - [sync.Map底层实现](syncmap底层实现.md)
-    -  <font style="color:orange;font-size:14px;font-weight:500">源码解析</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">源码解析</font>
         - [目录说明](目录说明.md)
         - [内存逃逸](内存逃逸.md)
         - [逃逸分析](逃逸分析.md)

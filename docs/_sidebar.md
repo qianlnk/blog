@@ -104,15 +104,15 @@
         - [interface底层实现](interface底层实现.md)
         - [sync.Map底层实现](syncmap底层实现.md)
     -  <font style="color:orange;font-size:14px;font-weight:500">源码解析</font>
-        -  [目录说明](目录说明.md)
-        -  [内存逃逸](内存逃逸.md)
-        -  [逃逸分析](逃逸分析.md)
-        -  [引用类型](引用类型.md)
-        -  [GC原理](GC原理.md)
-        -  [GMP调度模型](GMP调度模型.md)
-        -  [内存分配管理](内存分配管理.md)
-        -  [闭包](闭包.md)
-        -  [深拷贝](深拷贝.md)
+        - [目录说明](目录说明.md)
+        - [内存逃逸](内存逃逸.md)
+        - [逃逸分析](逃逸分析.md)
+        - [引用类型](引用类型.md)
+        - [GC原理](GC原理.md)
+        - [GMP调度模型](GMP调度模型.md)
+        - [内存分配管理](内存分配管理.md)
+        - [闭包](闭包.md)
+        - [深拷贝](深拷贝.md)
 -  <font style="color:red;font-size:14px;font-weight:500">组件原理</font>
     -  <font style="color:orange;font-size:14px;font-weight:500">zookeeper</font>
     -  <font style="color:orange;font-size:14px;font-weight:500">kafka</font>

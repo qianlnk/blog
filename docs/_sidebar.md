@@ -132,6 +132,7 @@
         - [鸵鸟策略](操作系统/死锁/鸵鸟策略.md)
         - [死锁检测与死锁恢复](操作系统/死锁/死锁检测与死锁恢复.md)
         - [死锁预防](操作系统/死锁/死锁预防.md)
+        - [](操作系统/死锁/)
     - <font style="color:orange;font-size:14px;font-weight:500">存储器管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">设备管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">文件管理</font>

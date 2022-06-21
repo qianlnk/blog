@@ -117,6 +117,7 @@
     - <font style="color:orange;font-size:14px;font-weight:500">zookeeper</font>
     - <font style="color:orange;font-size:14px;font-weight:500">kafka</font>
     - <font style="color:orange;font-size:14px;font-weight:500">nsq</font>
+        - [nsq源码解析](nsq源码解析.md)
     - <font style="color:orange;font-size:14px;font-weight:500">etcd</font>
 - <font style="color:red;font-size:14px;font-weight:500">网络编程</font>
     - [IO多路复用](IO多路复用.md)

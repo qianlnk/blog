@@ -129,7 +129,7 @@
     - <font style="color:orange;font-size:14px;font-weight:500">死锁</font>
         - [死锁必要条件](死锁必要条件.md)
         - [死锁处理方法](死锁处理方法.md)
-        - [鸵鸟策略](鸵鸟策略)
+        - [鸵鸟策略](鸵鸟策略.md)
     - <font style="color:orange;font-size:14px;font-weight:500">存储器管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">设备管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">文件管理</font>

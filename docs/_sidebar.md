@@ -127,6 +127,7 @@
 - <font style="color:red;font-size:14px;font-weight:500">操作系统</font>
     - <font style="color:orange;font-size:14px;font-weight:500">进程管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">死锁</font>
+        - [死锁必要条件](死锁必要条件.md)
     - <font style="color:orange;font-size:14px;font-weight:500">存储器管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">设备管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">文件管理</font>

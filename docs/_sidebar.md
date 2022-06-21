@@ -127,10 +127,10 @@
 - <font style="color:red;font-size:14px;font-weight:500">操作系统</font>
     - <font style="color:orange;font-size:14px;font-weight:500">进程管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">死锁</font>
-        - [死锁必要条件](死锁必要条件.md)
-        - [死锁处理方法](死锁处理方法.md)
-        - [鸵鸟策略](鸵鸟策略.md)
-        - [死锁检测与死锁恢复](死锁检测与死锁恢复.md)
+        - [死锁必要条件](操作系统/死锁/死锁必要条件.md)
+        - [死锁处理方法](操作系统/死锁/死锁处理方法.md)
+        - [鸵鸟策略](操作系统/死锁/鸵鸟策略.md)
+        - [死锁检测与死锁恢复](操作系统/死锁/死锁检测与死锁恢复.md)
         - [死锁预防](操作系统/死锁/死锁预防.md)
     - <font style="color:orange;font-size:14px;font-weight:500">存储器管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">设备管理</font>

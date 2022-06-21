@@ -126,6 +126,9 @@
     - [惊群效应](惊群效应.md)
 - <font style="color:red;font-size:14px;font-weight:500">操作系统</font>
     - <font style="color:orange;font-size:14px;font-weight:500">进程管理</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">死锁</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">存储器管理</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">设备管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">进程管理</font>
 - <font style="color:red;font-size:14px;font-weight:500">组成原理</font>
     - [int类型在内存中的存储方式](int类型在内存中的存储方式.md)

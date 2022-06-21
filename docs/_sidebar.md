@@ -125,6 +125,8 @@
     - [epoll原理](epoll原理.md)
     - [惊群效应](惊群效应.md)
 - <font style="color:red;font-size:14px;font-weight:500">操作系统</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">进程管理</font>
+    - <font style="color:orange;font-size:14px;font-weight:500">进程管理</font>
 - <font style="color:red;font-size:14px;font-weight:500">组成原理</font>
     - [int类型在内存中的存储方式](int类型在内存中的存储方式.md)
     - [大端和小端](大端和小端.md)

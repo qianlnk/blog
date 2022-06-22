@@ -73,7 +73,7 @@
         - [为什么主键建议使用自增ID](数据库/mysql/为什么主键建议使用自增ID.md)
         - [mysql连接池满排查处理](数据库/mysql/mysql连接池满排查处理.md)
     - <font style="color:orange;font-size:14px;font-weight:500">mongodb</font>
-        - [设计思路](mongodb设计思路.md)
+        - [设计思路](数据库/mysql/mongodb设计思路.md)
         - [批量杀死慢查询](mongodb批量杀死慢查询.md)
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch</font>
         - [性能优化](elasticsearch性能优化.md)

@@ -33,9 +33,9 @@
         - [证书认证](计算机网络/HTTP/证书认证.md)
         - [URI 和 URL](计算机网络/HTTP/URI和URL.md)
     - <font style="color:orange;font-size:14px;font-weight:500">协议</font>
-        - [OSI七层模型以及底层协议](OSI七层模型以及底层协议.md)
-        - [路由选择协议](路由选择协议.md)
-        - [DHCP](DHCP.md)
+        - [OSI七层模型以及底层协议](计算机网络/协议/OSI七层模型以及底层协议.md)
+        - [路由选择协议](计算机网络/协议/路由选择协议.md)
+        - [DHCP](计算机网络/协议/DHCP.md)
 - <font style="color:red;font-size:14px;font-weight:500">算法与数据结构</font>
     - <font style="color:orange;font-size:14px;font-weight:500">数据结构</font>
         - [哈希表](哈希表.md)

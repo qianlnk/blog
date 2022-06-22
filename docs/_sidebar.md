@@ -121,9 +121,9 @@
     - <font style="color:orange;font-size:14px;font-weight:500">etcd</font>
 - <font style="color:red;font-size:14px;font-weight:500">网络编程</font>
     - [IO多路复用](网络编程/IO多路复用.md)
-    - [从select到epool](从select到epool.md)
-    - [epoll原理](epoll原理.md)
-    - [惊群效应](惊群效应.md)
+    - [从select到epool](网络编程/从select到epool.md)
+    - [epoll原理](网络编程/epoll原理.md)
+    - [惊群效应](网络编程/惊群效应.md)
 - <font style="color:red;font-size:14px;font-weight:500">操作系统</font>
     - <font style="color:orange;font-size:14px;font-weight:500">进程管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">死锁</font>

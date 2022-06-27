@@ -155,6 +155,7 @@
         - [直接存储器访问(DMA)I/O控制方式](操作系统/设备管理/DMA.md)
         - [Linux 内存 cache 和 buffer 的区别](操作系统/设备管理/cache和buffer.md)
     - <font style="color:orange;font-size:14px;font-weight:500">文件管理</font>
+        - [)]
     - <font style="color:orange;font-size:14px;font-weight:500">操作系统接口</font>
 - <font style="color:red;font-size:14px;font-weight:500">组成原理</font>
     - [int类型在内存中的存储方式](组成原理/int类型在内存中的存储方式.md)

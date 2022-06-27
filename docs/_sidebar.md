@@ -153,6 +153,7 @@
         - [磁盘调度算法](操作系统/设备管理/磁盘调度算法.md)
         - [总线系统](操作系统/设备管理/总线系统.md)
         - [直接存储器访问(DMA)I/O控制方式](操作系统/设备管理/DMA.md)
+        - [Linux 内存 cache 和 buffer 的区别](操作系统/设备管理/cache和buffer.md)
     - <font style="color:orange;font-size:14px;font-weight:500">文件管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">操作系统接口</font>
 - <font style="color:red;font-size:14px;font-weight:500">组成原理</font>

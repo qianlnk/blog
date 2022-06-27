@@ -148,7 +148,7 @@
         - [死锁预防](操作系统/死锁/死锁预防.md)
         - [死锁避免](操作系统/死锁/死锁避免.md)
     - <font style="color:orange;font-size:14px;font-weight:500">存储器管理</font>
-        - 
+        - [堆和栈](操作系统/存储器管理/堆和栈.md)
     - <font style="color:orange;font-size:14px;font-weight:500">设备管理</font>
         - [磁盘结构](操作系统/设备管理/磁盘结构.md)
         - [磁盘调度算法](操作系统/设备管理/磁盘调度算法.md)

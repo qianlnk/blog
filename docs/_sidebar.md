@@ -150,6 +150,7 @@
     - <font style="color:orange;font-size:14px;font-weight:500">存储器管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">设备管理</font>
         - [磁盘结构](操作系统/设备管理/磁盘结构.md)
+        - [](操作系统/设备管理/磁盘调度算法.md)
     - <font style="color:orange;font-size:14px;font-weight:500">文件管理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">操作系统接口</font>
 - <font style="color:red;font-size:14px;font-weight:500">组成原理</font>

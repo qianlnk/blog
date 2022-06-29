@@ -116,6 +116,7 @@
 - <font style="color:red;font-size:14px;font-weight:500">组件原理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">zookeeper</font>
     - <font style="color:orange;font-size:14px;font-weight:500">kafka</font>
+        - [基础架构](组件原理/kafka/基础架构.md)
     - <font style="color:orange;font-size:14px;font-weight:500">nsq</font>
         - [nsq源码解析](组件原理/nsq/nsq源码解析.md)
     - <font style="color:orange;font-size:14px;font-weight:500">etcd</font>

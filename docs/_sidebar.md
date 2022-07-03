@@ -121,7 +121,7 @@
         - [消费数据](组件原理/kafka/消费数据.md)
         - [保存数据](组件原理/kafka/保存数据.md)
         - [kafka消息流转过程](组件原理/kafka/kafka消息流转过程.md)
-        - [怎么保证消息不丢失呢？](怎么保证消息不丢失呢.md)
+        - [怎么保证消息不丢失呢？](组件原理/kafka/怎么保证消息不丢失呢.md)
     - <font style="color:orange;font-size:14px;font-weight:500">nsq</font>
         - [nsq源码解析](组件原理/nsq/nsq源码解析.md)
     - <font style="color:orange;font-size:14px;font-weight:500">etcd</font>

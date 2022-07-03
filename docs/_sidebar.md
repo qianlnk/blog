@@ -124,6 +124,7 @@
         - [怎么保证消息不丢失呢？](组件原理/kafka/怎么保证消息不丢失呢.md)
         - [消息查找](组件原理/kafka/消息查找.md)
         - [offset存储在哪里](组件原理/kafka/offset存储在哪里.md)
+        - [单partition消息有序](组件原理/kafka/单partition消息有序.md)
     - <font style="color:orange;font-size:14px;font-weight:500">nsq</font>
         - [nsq源码解析](组件原理/nsq/nsq源码解析.md)
     - <font style="color:orange;font-size:14px;font-weight:500">etcd</font>

@@ -188,4 +188,4 @@
 - <font style="color:red;font-size:14px;font-weight:500">系统设计</font>
     - [容量规划](系统设计/容量规划.md)
     - [snowflakeID](系统设计/snowflakeID.md)
-    - [](系统设计/秒杀系统.md)
+    - [秒杀系统](系统设计/秒杀系统.md)

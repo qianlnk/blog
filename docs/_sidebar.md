@@ -77,6 +77,7 @@
         - [批量杀死慢查询](数据库/mongodb/mongodb批量杀死慢查询.md)
     - <font style="color:orange;font-size:14px;font-weight:500">elasticsearch</font>
         - [性能优化](数据库/elasticsearch/elasticsearch性能优化.md)
+        - [在并发情况下，Elasticsearch 如果保证读写一致？]()
     - <font style="color:orange;font-size:14px;font-weight:500">redis</font>
         - [常用数据类型及底层实现](数据库/redis/redis常用数据类型及底层实现.md)
         - [SDS简单动态字符串](数据库/redis/redis_SDS简单动态字符串.md)

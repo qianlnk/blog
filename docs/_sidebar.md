@@ -82,6 +82,7 @@
         - [elasticsearch搜索的过程](数据库/elasticsearch/elasticsearch搜索的过程.md)
         - [elasticsearch索引文档的过程](数据库/elasticsearch/elasticsearch索引文档的过程.md)
         - [elasticsearch中的倒排索引](数据库/ealsticsearch/elasticsearch中的倒排索引.md)
+        - [elasticsearch](数据库/elasticsearch/拼写纠错.md)
     - <font style="color:orange;font-size:14px;font-weight:500">redis</font>
         - [常用数据类型及底层实现](数据库/redis/redis常用数据类型及底层实现.md)
         - [SDS简单动态字符串](数据库/redis/redis_SDS简单动态字符串.md)

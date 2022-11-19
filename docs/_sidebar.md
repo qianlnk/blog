@@ -104,14 +104,14 @@
         - [分布式锁](数据库/redis/redis分布式锁.md)
 - <font style="color:red;font-size:14px;font-weight:500">golang</font>
     - <font style="color:orange;font-size:14px;font-weight:500">数据结构</font>
-
+        - [string](golang/数据结构/string.md)
+        - [channel](golang/数据结构/channel.md)
         - [channel底层实现](golang/数据结构/channel底层实现.md)
         - [map底层实现](golang/数据结构/map底层实现.md)
         - [slice底层实现](golang/数据结构/slice底层实现.md)
         - [interface底层实现](golang/数据结构/interface底层实现.md)
-        - [sync.Map底层实现](golang/数据结构/syncmap底层实现.md)
-
         - [sync.Map](golang/数据结构/syncmap.md)
+        - [sync.Map底层实现](golang/数据结构/syncmap底层实现.md)
     - <font style="color:orange;font-size:14px;font-weight:500">源码解析</font>
         - [目录说明](golang/源码解析/目录说明.md)
         - [内存逃逸](golang/源码解析/内存逃逸.md)

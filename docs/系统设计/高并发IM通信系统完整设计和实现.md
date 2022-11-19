@@ -156,7 +156,7 @@ im_message_send (msg_id,msg_from,msg_to, group_id，msg_seq, msg_content, send_t
 
 群聊流程如下图所示
 
-![](media/16428225397356/16121010745579.jpg)
+![](/uploads/upload_663d8b15a181dbfa04069f0608fbafc6.png)
 
 1、X向gate发送信息（信息最终要发给这个群，A、B在线）
 2、Gate将消息发给logic
@@ -176,7 +176,7 @@ im_message_send (msg_id,msg_from,msg_to, group_id，msg_seq, msg_content, send_t
 
 下图中，将gate和logic合并为im-server。拉取离线消息流程如下。 
 
-![](media/16428225397356/16121010939543.jpg)
+![](/uploads/upload_83fd17ab3d7cab84132b1862db86dce3.png)
 
 
 1、 App端登录成功后（或业务触发拉取离线消息），向IM系统发起拉离线消息请求。传递3个主要参数，uid表明用户；msgid表明当前收到的最大消息id（如果没收到过消息，或拿不到最大消息id则msgid=0）即可；size表示每次拉取条数（这个值也可以由服务器端控制）。
@@ -203,7 +203,7 @@ ISO采用APNS；Android真后台保活，同时增加米推、个推。
 
 TCP的数据协议如下图所示。包括header和body两部分。
 
-![](media/16428225397356/16121011468463.jpg)
+![](/uploads/upload_3fd1c68b290964b2e26802e313dc546e.png)
 
 消息头总共20个字节，具体信息如下表。
 

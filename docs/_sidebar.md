@@ -110,6 +110,7 @@
         - [interface底层实现](golang/数据结构/interface底层实现.md)
         - [sync.Map底层实现](golang/数据结构/syncmap底层实现.md)
         - [string](golang/数据结构/string.md)
+        - [channel](golang/数据结构/channel.md)
     - <font style="color:orange;font-size:14px;font-weight:500">源码解析</font>
         - [目录说明](golang/源码解析/目录说明.md)
         - [内存逃逸](golang/源码解析/内存逃逸.md)

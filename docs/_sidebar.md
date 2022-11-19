@@ -119,7 +119,7 @@
         - [内存分配管理](golang/源码解析/内存分配管理.md)
         - [闭包](golang/源码解析/闭包.md)
         - [深拷贝](golang/源码解析/深拷贝.md)
-        - [](golang/源码解析/make和new的区别.md)
+        - [make和new的区别](golang/源码解析/make和new的区别.md)
 - <font style="color:red;font-size:14px;font-weight:500">组件原理</font>
     - <font style="color:orange;font-size:14px;font-weight:500">zookeeper</font>
         - [zookeeper](组件原理/zookeeper/zookeeper.md)

@@ -225,8 +225,7 @@ TCP的数据协议如下图所示。包括header和body两部分。
 
 #### 2.2.3 踢人(kickout) 
 
-![](media/16428225397356/16121012087557.jpg)
-
+![](/uploads/upload_9296fc9d1b08e71c191bcf640c34afca.png)
 
 #### 2.2.4 心跳（keepalive,noop）
 
@@ -234,9 +233,10 @@ TCP的数据协议如下图所示。包括header和body两部分。
 
 #### 2.2.5 单对单聊天（c2c） 
 
-![](media/16428225397356/16121012215024.jpg)
+![](/uploads/upload_d21ed62f9a07b618bca0e265e1c55c73.png)
 
-![](media/16428225397356/16121012283126.jpg)
+![](/uploads/upload_1497b3db1adf9cc329b65f11a542ad2d.png)
+
 
 
 #### 2.2.6 群聊（c2g）

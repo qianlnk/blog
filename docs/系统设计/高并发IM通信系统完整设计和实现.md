@@ -287,12 +287,11 @@ MySQL数据库采用utf8mb4编码格式（emoji字符问题）
 
 群用户关系表
 
-![](media/16428225397356/16121013430007.jpg)
-
+![](/uploads/upload_b6c2b48e9de561dd70859a1feac0d3c6.png)
 
 #### 3.1.2 水平分库
 
-![](media/16428225397356/16121013512369.jpg)
+![](/uploads/upload_97b7a2bad04ea57a6b37c8d1b4151fc3.png)
 
 
 ### 3.2 Redis缓存

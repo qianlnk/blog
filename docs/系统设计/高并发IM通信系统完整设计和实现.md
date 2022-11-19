@@ -241,18 +241,18 @@ TCP的数据协议如下图所示。包括header和body两部分。
 
 #### 2.2.6 群聊（c2g）
 
-![](media/16428225397356/16121012365053.jpg)
+![](/uploads/upload_3789c2859d3c1d2352a83b2f870f6d5c.png)
 
-![](media/16428225397356/16121012436888.jpg)
-
+![](/uploads/upload_9b6d8745c493e39598f427414ef67a1d.png)
 
 #### 2.2.7 拉离线（pull）
 
-![](media/16428225397356/16121012522857.jpg)
-
+![](/uploads/upload_2e0bb67a2bee0651a4f7b146f0a1141e.png)
 
 #### 2.2.8 控制类（ctrl）
  
+![](/uploads/upload_ec9bbf9e64194563aac997895e572802.png)
+
 ![](media/16428225397356/16121012602713.jpg)
 
 ![](media/16428225397356/16121012670743.jpg)

@@ -214,4 +214,5 @@
 - <font style="color:red;font-size:14px;font-weight:500">项目架构</font>
     - <font style="color:orange;font-size:14px;font-weight:500">推荐引擎</font>
     - <font style="color:orange;font-size:14px;font-weight:500">规则引擎</font>
-    -
+    - <font style="color:orange;font-size:14px;font-weight:500">消息队列</font>
+    -  - <font style="color:orange;font-size:14px;font-weight:500">消息队列</font>

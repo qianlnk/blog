@@ -3,9 +3,9 @@
 1. 不同类型的struct
    不能进行比较，编译期就会报错（GoLand 会直接提示）
 2. 同类型的struct
- 也分为两种情况，
-			（1）struct的所有成员都是可以比较的，则该 strcut 的不同实例可以比较
-			（2）struct中含有不可比较的成员（如 Slice），则该 struct 不可以比较
+   也分为两种情况，
+    （1）struct的所有成员都是可以比较的，则该 strcut 的不同实例可以比较
+	（2）struct中含有不可比较的成员（如 Slice），则该 struct 不可以比较
 
 ## 不可被比较的类型:
 ① slice，因为slice是引用类型，除非是和nil比较

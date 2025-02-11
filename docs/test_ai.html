@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <title>职业AI替代风险评估表</title>
+    <style>
+        body {
+            font-family: '微软雅黑', sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #f0f8ff;
+        }
+
+        .question-group {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 15px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #2c3e50;
+        }
+
+        .result {
+            display: none;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            color: white;
+        }
+
+        button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background: #2980b9;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>🔍 你的职业AI替代风险测评</h2>
+
+    <div class="question-group">
+        <p>1. 日常工作涉及多少重复性标准化任务？</p>
+        <label><input type="radio" name="q1" value="4"> ＞80% </label>
+        <label><input type="radio" name="q1" value="2"> 40%-80% </label>
+        <label><input type="radio" name="q1" value="0"> ＜40% </label>
+    </div>
+
+    <div class="question-group">
+        <p>2. 需要多少面对面人际互动？</p>
+        <label><input type="radio" name="q2" value="0"> 每天多次深度交流 </label>
+        <label><input type="radio" name="q2" value="2"> 定期会议沟通 </label>
+        <label><input type="radio" name="q2" value="4"> 几乎不需要 </label>
+    </div>
+
+    <div class="question-group">
+        <p>3. 工作成果的创意性要求？</p>
+        <label><input type="radio" name="q3" value="0"> 需要突破性创新 </label>
+        <label><input type="radio" name="q3" value="2"> 组合式创新 </label>
+        <label><input type="radio" name="q3" value="4"> 按既定模版执行 </label>
+    </div>
+
+    <div class="question-group">
+        <p>4. 处理意外情况的频率？</p>
+        <label><input type="radio" name="q4" value="0"> 每天都有新挑战 </label>
+        <label><input type="radio" name="q4" value="2"> 每周几次特殊状况 </label>
+        <label><input type="radio" name="q4" value="4"> 几乎不会超出流程 </label>
+    </div>
+
+    <button onclick="calculateRisk()">查看评估结果</button>
+
+    <div id="result" class="result"></div>
+
+    <script>
+        function calculateRisk() {
+            let total = 0;
+            const questions = ['q1', 'q2', 'q3', 'q4'];
+
+            // 检查是否所有问题已回答
+            if (!questions.every(q => document.querySelector(`input[name="${q}"]:checked`))) {
+                alert("请完成所有题目再提交！");
+                return;
+            }
+
+            // 计算总分
+            questions.forEach(q => {
+                total += parseInt(document.querySelector(`input[name="${q}"]:checked`).value);
+            });
+
+            // 显示结果
+            const resultDiv = document.getElementById('result');
+            resultDiv.style.display = 'block';
+
+            let content = '';
+            if (total <= 5) {
+                resultDiv.style.background = 'linear-gradient(45deg, #2ecc71, #27ae60)';
+                content = `<h3>🌟 低风险 (${total}/16分)</h3>
+                          <p>你的工作具有较强不可替代性，建议：</p>
+                          <ul>
+                            <li>加强人机协作能力</li>
+                            <li>培养AI工具使用技巧</li>
+                            <li>关注行业智能化趋势</li>
+                          </ul>`;
+            } else if (total <= 10) {
+                resultDiv.style.background = 'linear-gradient(45deg, #f1c40f, #f39c12)';
+                content = `<h3>⚠️ 中风险 (${total}/16分)</h3>
+                          <p>部分工作可能被AI优化，建议：</p>
+                          <ul>
+                            <li>学习AI增强型工具</li>
+                            <li>提升流程设计能力</li>
+                            <li>发展跨界技能组合</li>
+                          </ul>`;
+            } else {
+                resultDiv.style.background = 'linear-gradient(45deg, #e74c3c, #c0392b)';
+                content = `<h3>🚨 高风险 (${total}/16分)</h3>
+                          <p>需立即制定转型计划，建议：</p>
+                          <ul>
+                            <li>学习AI监督维护技能</li>
+                            <li>转向决策/创意类岗位</li>
+                            <li>参与人机协作项目</li>
+                          </ul>`;
+            }
+
+            resultDiv.innerHTML = content;
+        }
+    </script>
+</body>
+
+</html>
